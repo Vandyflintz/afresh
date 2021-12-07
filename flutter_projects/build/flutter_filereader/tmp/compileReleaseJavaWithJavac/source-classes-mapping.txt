@@ -1,0 +1,18 @@
+com/webview/filereader/X5FileReaderView.java
+ com.webview.filereader.X5FileReaderView
+com/webview/filereader/NetUtil.java
+ com.webview.filereader.NetUtil
+com/webview/filereader/X5FileReaderFactory.java
+ com.webview.filereader.X5FileReaderFactory
+com/webview/filereader/FlutterFileReaderPlugin.java
+ com.webview.filereader.FlutterFileReaderPlugin
+ com.webview.filereader.FlutterFileReaderPlugin$1
+ com.webview.filereader.FlutterFileReaderPlugin$2
+ com.webview.filereader.FlutterFileReaderPlugin$3
+ com.webview.filereader.FlutterFileReaderPlugin$4
+ com.webview.filereader.FlutterFileReaderPlugin$QbSdkPreInitCallback
+com/webview/filereader/BuildConfig.java
+ com.webview.filereader.BuildConfig
+com/webview/filereader/NetBroadcastReceiver.java
+ com.webview.filereader.NetBroadcastReceiver
+ com.webview.filereader.NetBroadcastReceiver$NetChangeListener

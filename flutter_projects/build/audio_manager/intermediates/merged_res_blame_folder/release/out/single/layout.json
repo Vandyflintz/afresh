@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\66fa04bfdff3a0d6b95ab229c2e4922d\\media-1.0.1\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\66fa04bfdff3a0d6b95ab229c2e4922d\\media-1.0.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\layout\\exo_player_control_view.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\5e6206473332aaeb4ea7adeacd96aafb\\jetified-exoplayer-ui-2.11.1\\res\\layout\\exo_player_control_view.xml"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\layout\\exo_list_divider.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\5e6206473332aaeb4ea7adeacd96aafb\\jetified-exoplayer-ui-2.11.1\\res\\layout\\exo_list_divider.xml"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\layout\\exo_track_selection_dialog.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\5e6206473332aaeb4ea7adeacd96aafb\\jetified-exoplayer-ui-2.11.1\\res\\layout\\exo_track_selection_dialog.xml"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\66fa04bfdff3a0d6b95ab229c2e4922d\\media-1.0.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\layout\\exo_player_view.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\5e6206473332aaeb4ea7adeacd96aafb\\jetified-exoplayer-ui-2.11.1\\res\\layout\\exo_player_view.xml"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\layout\\exo_simple_player_view.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\5e6206473332aaeb4ea7adeacd96aafb\\jetified-exoplayer-ui-2.11.1\\res\\layout\\exo_simple_player_view.xml"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\c3ee5b9d556b6acb25f45f6e544c4187\\core-1.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\66fa04bfdff3a0d6b95ab229c2e4922d\\media-1.0.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\c3ee5b9d556b6acb25f45f6e544c4187\\core-1.1.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\layout\\layout_mediaplayer.xml",
+        "source": "C:\\flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\audio_manager-0.8.2\\android\\src\\main\\res\\layout\\layout_mediaplayer.xml"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\66fa04bfdff3a0d6b95ab229c2e4922d\\media-1.0.1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\66fa04bfdff3a0d6b95ab229c2e4922d\\media-1.0.1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\layout\\exo_playback_control_view.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\5e6206473332aaeb4ea7adeacd96aafb\\jetified-exoplayer-ui-2.11.1\\res\\layout\\exo_playback_control_view.xml"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\66fa04bfdff3a0d6b95ab229c2e4922d\\media-1.0.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\66fa04bfdff3a0d6b95ab229c2e4922d\\media-1.0.1\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\c3ee5b9d556b6acb25f45f6e544c4187\\core-1.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\66fa04bfdff3a0d6b95ab229c2e4922d\\media-1.0.1\\res\\layout\\notification_media_cancel_action.xml"
+    }
+]

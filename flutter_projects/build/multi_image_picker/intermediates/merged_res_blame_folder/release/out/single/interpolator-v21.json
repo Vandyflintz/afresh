@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\interpolator-v21\\mtrl_linear_out_slow_in.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\92b38bbd2fdd3081db3137573e43e2b3\\material-1.0.0\\res\\interpolator-v21\\mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\interpolator-v21\\mtrl_fast_out_slow_in.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\92b38bbd2fdd3081db3137573e43e2b3\\material-1.0.0\\res\\interpolator-v21\\mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\interpolator-v21\\mtrl_fast_out_linear_in.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\92b38bbd2fdd3081db3137573e43e2b3\\material-1.0.0\\res\\interpolator-v21\\mtrl_fast_out_linear_in.xml"
+    }
+]

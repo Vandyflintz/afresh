@@ -1,0 +1,7 @@
+com/jordanalcaraz/audiorecorder/audiorecorder/BuildConfig.java
+ com.jordanalcaraz.audiorecorder.audiorecorder.BuildConfig
+com/jordanalcaraz/audiorecorder/audiorecorder/WavRecorder.java
+ com.jordanalcaraz.audiorecorder.audiorecorder.WavRecorder
+ com.jordanalcaraz.audiorecorder.audiorecorder.WavRecorder$1
+com/jordanalcaraz/audiorecorder/audiorecorder/AudioRecorderPlugin.java
+ com.jordanalcaraz.audiorecorder.audiorecorder.AudioRecorderPlugin

@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\exo_icon_vr.png",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\5e6206473332aaeb4ea7adeacd96aafb\\jetified-exoplayer-ui-2.11.1\\res\\drawable-xxhdpi-v4\\exo_icon_vr.png"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\exo_icon_stop.png",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\5e6206473332aaeb4ea7adeacd96aafb\\jetified-exoplayer-ui-2.11.1\\res\\drawable-xxhdpi-v4\\exo_icon_stop.png"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\exo_icon_play.png",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\5e6206473332aaeb4ea7adeacd96aafb\\jetified-exoplayer-ui-2.11.1\\res\\drawable-xxhdpi-v4\\exo_icon_play.png"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\exo_icon_repeat_all.png",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\5e6206473332aaeb4ea7adeacd96aafb\\jetified-exoplayer-ui-2.11.1\\res\\drawable-xxhdpi-v4\\exo_icon_repeat_all.png"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\exo_icon_fullscreen_enter.png",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\5e6206473332aaeb4ea7adeacd96aafb\\jetified-exoplayer-ui-2.11.1\\res\\drawable-xxhdpi-v4\\exo_icon_fullscreen_enter.png"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\exo_icon_rewind.png",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\5e6206473332aaeb4ea7adeacd96aafb\\jetified-exoplayer-ui-2.11.1\\res\\drawable-xxhdpi-v4\\exo_icon_rewind.png"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\exo_edit_mode_logo.png",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\5e6206473332aaeb4ea7adeacd96aafb\\jetified-exoplayer-ui-2.11.1\\res\\drawable-xxhdpi-v4\\exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\exo_icon_repeat_off.png",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\5e6206473332aaeb4ea7adeacd96aafb\\jetified-exoplayer-ui-2.11.1\\res\\drawable-xxhdpi-v4\\exo_icon_repeat_off.png"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\exo_icon_fullscreen_exit.png",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\5e6206473332aaeb4ea7adeacd96aafb\\jetified-exoplayer-ui-2.11.1\\res\\drawable-xxhdpi-v4\\exo_icon_fullscreen_exit.png"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\exo_icon_fastforward.png",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\5e6206473332aaeb4ea7adeacd96aafb\\jetified-exoplayer-ui-2.11.1\\res\\drawable-xxhdpi-v4\\exo_icon_fastforward.png"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\exo_icon_circular_play.png",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\5e6206473332aaeb4ea7adeacd96aafb\\jetified-exoplayer-ui-2.11.1\\res\\drawable-xxhdpi-v4\\exo_icon_circular_play.png"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\exo_icon_shuffle_off.png",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\5e6206473332aaeb4ea7adeacd96aafb\\jetified-exoplayer-ui-2.11.1\\res\\drawable-xxhdpi-v4\\exo_icon_shuffle_off.png"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\exo_icon_pause.png",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\5e6206473332aaeb4ea7adeacd96aafb\\jetified-exoplayer-ui-2.11.1\\res\\drawable-xxhdpi-v4\\exo_icon_pause.png"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\exo_icon_previous.png",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\5e6206473332aaeb4ea7adeacd96aafb\\jetified-exoplayer-ui-2.11.1\\res\\drawable-xxhdpi-v4\\exo_icon_previous.png"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\exo_icon_shuffle_on.png",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\5e6206473332aaeb4ea7adeacd96aafb\\jetified-exoplayer-ui-2.11.1\\res\\drawable-xxhdpi-v4\\exo_icon_shuffle_on.png"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\exo_icon_repeat_one.png",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\5e6206473332aaeb4ea7adeacd96aafb\\jetified-exoplayer-ui-2.11.1\\res\\drawable-xxhdpi-v4\\exo_icon_repeat_one.png"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\audio_manager\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\exo_icon_next.png",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\5e6206473332aaeb4ea7adeacd96aafb\\jetified-exoplayer-ui-2.11.1\\res\\drawable-xxhdpi-v4\\exo_icon_next.png"
+    }
+]

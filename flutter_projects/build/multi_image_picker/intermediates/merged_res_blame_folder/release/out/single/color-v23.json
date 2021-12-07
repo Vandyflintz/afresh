@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\9f215caa85fdb7f737f26ecdff204f20\\appcompat-1.0.0\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\9f215caa85fdb7f737f26ecdff204f20\\appcompat-1.0.0\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\9f215caa85fdb7f737f26ecdff204f20\\appcompat-1.0.0\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\9f215caa85fdb7f737f26ecdff204f20\\appcompat-1.0.0\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\9f215caa85fdb7f737f26ecdff204f20\\appcompat-1.0.0\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\9f215caa85fdb7f737f26ecdff204f20\\appcompat-1.0.0\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\9f215caa85fdb7f737f26ecdff204f20\\appcompat-1.0.0\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\9f215caa85fdb7f737f26ecdff204f20\\appcompat-1.0.0\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\9f215caa85fdb7f737f26ecdff204f20\\appcompat-1.0.0\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\FlutterProjects\\emkapp\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\color-v23\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\92b38bbd2fdd3081db3137573e43e2b3\\material-1.0.0\\res\\color-v23\\design_tint_password_toggle.xml"
+    }
+]

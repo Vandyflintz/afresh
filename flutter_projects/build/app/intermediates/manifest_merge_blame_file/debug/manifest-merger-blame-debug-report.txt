@@ -1,0 +1,319 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.vandyflintz.emkapp"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="30" />
+10    <!--
+11         Flutter needs it to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->C:\FlutterProjects\emkapp\android\app\src\debug\AndroidManifest.xml:6:5-66
+14-->C:\FlutterProjects\emkapp\android\app\src\debug\AndroidManifest.xml:6:22-64
+15    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+15-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:3:5-71
+15-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:3:22-68
+16    <uses-permission android:name="android.permission.CAMERA" />
+16-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:4:5-64
+16-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:4:22-62
+17    <uses-permission android:name="android.permission.FLASHLIGHT" />
+17-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:5:5-68
+17-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:5:22-66
+18    <uses-permission android:name="android.hardware.camera" />
+18-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:6:5-62
+18-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:6:22-60
+19    <uses-permission android:name="android.hardware.camera.flash" />
+19-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:7:5-68
+19-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:7:22-66
+20    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+20-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:8:1-77
+20-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:8:18-74
+21    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+21-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:9:1-76
+21-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:9:18-73
+22
+23    <queries>
+23-->[:file_picker] C:\FlutterProjects\emkapp\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-15:15
+24        <intent>
+24-->[:file_picker] C:\FlutterProjects\emkapp\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:9-14:18
+25            <action android:name="android.intent.action.GET_CONTENT" />
+25-->[:file_picker] C:\FlutterProjects\emkapp\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-72
+25-->[:file_picker] C:\FlutterProjects\emkapp\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:21-69
+26
+27            <data android:mimeType="*/*" />
+27-->[:file_picker] C:\FlutterProjects\emkapp\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-44
+27-->[:file_picker] C:\FlutterProjects\emkapp\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:19-41
+28        </intent>
+29        <intent>
+29-->[:flutter_inappwebview] C:\FlutterProjects\emkapp\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-10:18
+30            <action android:name="android.support.customtabs.action.CustomTabsService" />
+30-->[:flutter_inappwebview] C:\FlutterProjects\emkapp\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-90
+30-->[:flutter_inappwebview] C:\FlutterProjects\emkapp\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:9:21-87
+31        </intent>
+32    </queries> <!-- 保持进程在休眠时从屏幕消失 -->
+33    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- 允许程序修改全局音频设置 -->
+33-->[:record_mp3] C:\FlutterProjects\emkapp\build\record_mp3\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-68
+33-->[:record_mp3] C:\FlutterProjects\emkapp\build\record_mp3\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-65
+34    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+34-->[:record_mp3] C:\FlutterProjects\emkapp\build\record_mp3\intermediates\library_manifest\debug\AndroidManifest.xml:18:5-80
+34-->[:record_mp3] C:\FlutterProjects\emkapp\build\record_mp3\intermediates\library_manifest\debug\AndroidManifest.xml:18:22-77
+35    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+35-->[:audio_manager] C:\FlutterProjects\emkapp\build\audio_manager\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-77
+35-->[:audio_manager] C:\FlutterProjects\emkapp\build\audio_manager\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-74
+36    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+36-->[:open_file] C:\FlutterProjects\emkapp\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-83
+36-->[:open_file] C:\FlutterProjects\emkapp\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-80
+37    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+37-->[:flutter_filereader] C:\FlutterProjects\emkapp\build\flutter_filereader\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-79
+37-->[:flutter_filereader] C:\FlutterProjects\emkapp\build\flutter_filereader\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-76
+38    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+38-->[:flutter_filereader] C:\FlutterProjects\emkapp\build\flutter_filereader\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-76
+38-->[:flutter_filereader] C:\FlutterProjects\emkapp\build\flutter_filereader\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-73
+39
+40    <application
+40-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:10:4-55:19
+41        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+41-->[androidx.core:core:1.6.0] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\b6cbabf8eb93129946bc40e7c30cf929\core-1.6.0\AndroidManifest.xml:24:18-86
+42        android:debuggable="true"
+43        android:extractNativeLibs="false"
+44        android:hardwareAccelerated="true"
+44-->[:flutter_filereader] C:\FlutterProjects\emkapp\build\flutter_filereader\intermediates\library_manifest\debug\AndroidManifest.xml:13:18-52
+45        android:icon="@mipmap/ic_launcher"
+45-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:12:9-43
+46        android:label="Em-kapp"
+46-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:11:9-32
+47        android:usesCleartextTraffic="true" >
+47-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:13:9-44
+48        <activity
+48-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:15:9-45:20
+49            android:name="com.vandyflintz.emkapp.MainActivity"
+49-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:16:13-41
+50            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+50-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:20:13-163
+51            android:hardwareAccelerated="true"
+51-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:21:13-47
+52            android:launchMode="singleTop"
+52-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:17:13-43
+53            android:theme="@style/LaunchTheme"
+53-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:18:13-47
+54            android:windowSoftInputMode="adjustResize" >
+54-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:22:13-55
+55
+56            <!--
+57                 Specifies an Android theme to apply to this Activity as soon as
+58                 the Android process has started. This theme is visible to the user
+59                 while the Flutter UI initializes. After that, this theme continues
+60                 to determine the Window background behind the Flutter UI.
+61            -->
+62            <meta-data
+62-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:27:13-30:17
+63                android:name="io.flutter.embedding.android.NormalTheme"
+63-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:28:15-70
+64                android:resource="@style/NormalTheme" />
+64-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:29:15-52
+65            <!--
+66                 Displays an Android View that continues showing the launch screen
+67                 Drawable until Flutter paints its first frame, then this splash
+68                 screen fades out. A splash screen is useful to avoid any visual
+69                 gap between the end of Android's launch screen and the painting of
+70                 Flutter's first frame.
+71            -->
+72            <meta-data
+72-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:36:13-39:17
+73                android:name="io.flutter.embedding.android.SplashScreenDrawable"
+73-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:37:15-79
+74                android:resource="@drawable/launch_background" />
+74-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:38:15-61
+75
+76            <intent-filter>
+76-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:40:13-43:29
+77                <action android:name="android.intent.action.MAIN" />
+77-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:41:17-68
+77-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:41:25-66
+78
+79                <category android:name="android.intent.category.LAUNCHER" />
+79-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:42:17-76
+79-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:42:27-74
+80            </intent-filter>
+81        </activity>
+82        <activity
+82-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:46:9-49:72
+83            android:name="com.yalantis.ucrop.UCropActivity"
+83-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:47:13-60
+84            android:screenOrientation="portrait"
+84-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:48:13-49
+85            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+85-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:49:13-69
+86        <!--
+87             Don't delete the meta-data below.
+88             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+89        -->
+90        <meta-data
+90-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:52:9-54:33
+91            android:name="flutterEmbedding"
+91-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:53:13-44
+92            android:value="2" />
+92-->C:\FlutterProjects\emkapp\android\app\src\main\AndroidManifest.xml:54:13-30
+93
+94        <provider
+94-->[:image_picker] C:\FlutterProjects\emkapp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
+95            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
+95-->[:image_picker] C:\FlutterProjects\emkapp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-82
+96            android:authorities="com.vandyflintz.emkapp.flutter.image_provider"
+96-->[:image_picker] C:\FlutterProjects\emkapp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-74
+97            android:exported="false"
+97-->[:image_picker] C:\FlutterProjects\emkapp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
+98            android:grantUriPermissions="true" >
+98-->[:image_picker] C:\FlutterProjects\emkapp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-47
+99            <meta-data
+99-->[:image_picker] C:\FlutterProjects\emkapp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:75
+100                android:name="android.support.FILE_PROVIDER_PATHS"
+100-->[:image_picker] C:\FlutterProjects\emkapp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-67
+101                android:resource="@xml/flutter_image_picker_file_paths" />
+101-->[:image_picker] C:\FlutterProjects\emkapp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-72
+102        </provider>
+103
+104        <activity
+104-->[:flutter_inappwebview] C:\FlutterProjects\emkapp\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-17:47
+105            android:name="com.pichillilorenzo.flutter_inappwebview.in_app_browser.InAppBrowserActivity"
+105-->[:flutter_inappwebview] C:\FlutterProjects\emkapp\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-104
+106            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density"
+106-->[:flutter_inappwebview] C:\FlutterProjects\emkapp\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-137
+107            android:theme="@style/AppTheme" />
+107-->[:flutter_inappwebview] C:\FlutterProjects\emkapp\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-44
+108        <activity
+108-->[:flutter_inappwebview] C:\FlutterProjects\emkapp\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-20:55
+109            android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivity"
+109-->[:flutter_inappwebview] C:\FlutterProjects\emkapp\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-112
+110            android:theme="@style/ThemeTransparent" />
+110-->[:flutter_inappwebview] C:\FlutterProjects\emkapp\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-52
+111
+112        <receiver android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ActionBroadcastReceiver" />
+112-->[:flutter_inappwebview] C:\FlutterProjects\emkapp\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:22:9-120
+112-->[:flutter_inappwebview] C:\FlutterProjects\emkapp\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:22:19-117
+113
+114        <meta-data
+114-->[:flutter_inappwebview] C:\FlutterProjects\emkapp\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:24:9-26:36
+115            android:name="io.flutter.embedded_views_preview"
+115-->[:flutter_inappwebview] C:\FlutterProjects\emkapp\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:25:13-61
+116            android:value="true" />
+116-->[:flutter_inappwebview] C:\FlutterProjects\emkapp\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:26:13-33
+117
+118        <service android:name="cc.dync.audio_manager.MediaPlayerService" />
+118-->[:audio_manager] C:\FlutterProjects\emkapp\build\audio_manager\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-76
+118-->[:audio_manager] C:\FlutterProjects\emkapp\build\audio_manager\intermediates\library_manifest\debug\AndroidManifest.xml:12:18-73
+119
+120        <provider
+120-->[:share] C:\FlutterProjects\emkapp\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
+121            android:name="io.flutter.plugins.share.ShareFileProvider"
+121-->[:share] C:\FlutterProjects\emkapp\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-70
+122            android:authorities="com.vandyflintz.emkapp.flutter.share_provider"
+122-->[:share] C:\FlutterProjects\emkapp\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-74
+123            android:exported="false"
+123-->[:share] C:\FlutterProjects\emkapp\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
+124            android:grantUriPermissions="true" >
+124-->[:share] C:\FlutterProjects\emkapp\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-47
+125            <meta-data
+125-->[:image_picker] C:\FlutterProjects\emkapp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:75
+126                android:name="android.support.FILE_PROVIDER_PATHS"
+126-->[:image_picker] C:\FlutterProjects\emkapp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-67
+127                android:resource="@xml/flutter_share_file_paths" />
+127-->[:image_picker] C:\FlutterProjects\emkapp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-72
+128        </provider>
+129        <provider
+129-->[:printing] C:\FlutterProjects\emkapp\build\printing\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
+130            android:name="net.nfet.flutter.printing.PrintFileProvider"
+130-->[:printing] C:\FlutterProjects\emkapp\build\printing\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-71
+131            android:authorities="com.vandyflintz.emkapp.flutter.printing"
+131-->[:printing] C:\FlutterProjects\emkapp\build\printing\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-68
+132            android:exported="false"
+132-->[:printing] C:\FlutterProjects\emkapp\build\printing\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
+133            android:grantUriPermissions="true" >
+133-->[:printing] C:\FlutterProjects\emkapp\build\printing\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-47
+134            <meta-data
+134-->[:image_picker] C:\FlutterProjects\emkapp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:75
+135                android:name="android.support.FILE_PROVIDER_PATHS"
+135-->[:image_picker] C:\FlutterProjects\emkapp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-67
+136                android:resource="@xml/flutter_printing_file_paths" />
+136-->[:image_picker] C:\FlutterProjects\emkapp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-72
+137        </provider>
+138        <provider
+138-->[:open_file] C:\FlutterProjects\emkapp\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-21:20
+139            android:name="com.crazecoder.openfile.FileProvider"
+139-->[:open_file] C:\FlutterProjects\emkapp\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-64
+140            android:authorities="com.vandyflintz.emkapp.fileProvider.com.crazecoder.openfile"
+140-->[:open_file] C:\FlutterProjects\emkapp\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-88
+141            android:exported="false"
+141-->[:open_file] C:\FlutterProjects\emkapp\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+142            android:grantUriPermissions="true" >
+142-->[:open_file] C:\FlutterProjects\emkapp\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
+143            <meta-data
+143-->[:image_picker] C:\FlutterProjects\emkapp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:75
+144                android:name="android.support.FILE_PROVIDER_PATHS"
+144-->[:image_picker] C:\FlutterProjects\emkapp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-67
+145                android:resource="@xml/filepaths" />
+145-->[:image_picker] C:\FlutterProjects\emkapp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-72
+146        </provider>
+147
+148        <activity
+148-->[:url_launcher] C:\FlutterProjects\emkapp\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:74
+149            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+149-->[:url_launcher] C:\FlutterProjects\emkapp\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-74
+150            android:exported="false"
+150-->[:url_launcher] C:\FlutterProjects\emkapp\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-37
+151            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" /> <!-- 在AndroidManifest.xml中增加内核首次加载时优化Service声明；    该Service仅在TBS内核首次Dex加载时触发并执行dex2oat任务，任务完成后自动结束。 -->
+151-->[:url_launcher] C:\FlutterProjects\emkapp\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-71
+152        <service
+152-->[:flutter_filereader] C:\FlutterProjects\emkapp\build\flutter_filereader\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-19:41
+153            android:name="com.tencent.smtt.export.external.DexClassLoaderProviderService"
+153-->[:flutter_filereader] C:\FlutterProjects\emkapp\build\flutter_filereader\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-90
+154            android:label="dexopt"
+154-->[:flutter_filereader] C:\FlutterProjects\emkapp\build\flutter_filereader\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-35
+155            android:process=":dexopt" />
+155-->[:flutter_filereader] C:\FlutterProjects\emkapp\build\flutter_filereader\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-38
+156
+157        <provider
+157-->[com.sangcomz:FishBun:0.11.2] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\642e6a7844e201bef5563d594425413a\jetified-FishBun-0.11.2\AndroidManifest.xml:12:9-20:20
+158            android:name="com.sangcomz.fishbun.FishBunFileProvider"
+158-->[com.sangcomz:FishBun:0.11.2] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\642e6a7844e201bef5563d594425413a\jetified-FishBun-0.11.2\AndroidManifest.xml:13:13-68
+159            android:authorities="com.vandyflintz.emkapp.fishbunfileprovider"
+159-->[com.sangcomz:FishBun:0.11.2] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\642e6a7844e201bef5563d594425413a\jetified-FishBun-0.11.2\AndroidManifest.xml:14:13-71
+160            android:exported="false"
+160-->[com.sangcomz:FishBun:0.11.2] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\642e6a7844e201bef5563d594425413a\jetified-FishBun-0.11.2\AndroidManifest.xml:15:13-37
+161            android:grantUriPermissions="true" >
+161-->[com.sangcomz:FishBun:0.11.2] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\642e6a7844e201bef5563d594425413a\jetified-FishBun-0.11.2\AndroidManifest.xml:16:13-47
+162            <meta-data
+162-->[:image_picker] C:\FlutterProjects\emkapp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:75
+163                android:name="android.support.FILE_PROVIDER_PATHS"
+163-->[:image_picker] C:\FlutterProjects\emkapp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-67
+164                android:resource="@xml/provider_paths" />
+164-->[:image_picker] C:\FlutterProjects\emkapp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-72
+165        </provider>
+166
+167        <activity
+167-->[com.sangcomz:FishBun:0.11.2] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\642e6a7844e201bef5563d594425413a\jetified-FishBun-0.11.2\AndroidManifest.xml:22:9-25:51
+168            android:name="com.sangcomz.fishbun.ui.album.AlbumActivity"
+168-->[com.sangcomz:FishBun:0.11.2] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\642e6a7844e201bef5563d594425413a\jetified-FishBun-0.11.2\AndroidManifest.xml:23:13-71
+169            android:label="@string/album"
+169-->[com.sangcomz:FishBun:0.11.2] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\642e6a7844e201bef5563d594425413a\jetified-FishBun-0.11.2\AndroidManifest.xml:24:13-42
+170            android:theme="@style/FishBunTheme" />
+170-->[com.sangcomz:FishBun:0.11.2] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\642e6a7844e201bef5563d594425413a\jetified-FishBun-0.11.2\AndroidManifest.xml:25:13-48
+171        <activity
+171-->[com.sangcomz:FishBun:0.11.2] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\642e6a7844e201bef5563d594425413a\jetified-FishBun-0.11.2\AndroidManifest.xml:26:9-28:51
+172            android:name="com.sangcomz.fishbun.ui.picker.PickerActivity"
+172-->[com.sangcomz:FishBun:0.11.2] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\642e6a7844e201bef5563d594425413a\jetified-FishBun-0.11.2\AndroidManifest.xml:27:13-73
+173            android:theme="@style/FishBunTheme" />
+173-->[com.sangcomz:FishBun:0.11.2] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\642e6a7844e201bef5563d594425413a\jetified-FishBun-0.11.2\AndroidManifest.xml:28:13-48
+174        <activity
+174-->[com.sangcomz:FishBun:0.11.2] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\642e6a7844e201bef5563d594425413a\jetified-FishBun-0.11.2\AndroidManifest.xml:29:9-31:54
+175            android:name="com.sangcomz.fishbun.ui.detail.DetailActivity"
+175-->[com.sangcomz:FishBun:0.11.2] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\642e6a7844e201bef5563d594425413a\jetified-FishBun-0.11.2\AndroidManifest.xml:30:13-73
+176            android:theme="@style/DetailViewTheme" />
+176-->[com.sangcomz:FishBun:0.11.2] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\642e6a7844e201bef5563d594425413a\jetified-FishBun-0.11.2\AndroidManifest.xml:31:13-51
+177    </application>
+178
+179</manifest>

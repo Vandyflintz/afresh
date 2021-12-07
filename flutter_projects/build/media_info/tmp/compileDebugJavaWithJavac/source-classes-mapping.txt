@@ -1,0 +1,20 @@
+asia/ivity/mediainfo/util/OutputSurface.java
+ asia.ivity.mediainfo.util.OutputSurface
+asia/ivity/mediainfo/util/TextureRender.java
+ asia.ivity.mediainfo.util.TextureRender
+asia/ivity/mediainfo/AudioDetail.java
+ asia.ivity.mediainfo.AudioDetail
+asia/ivity/mediainfo/VideoUtils.java
+ asia.ivity.mediainfo.VideoUtils
+asia/ivity/mediainfo/BuildConfig.java
+ asia.ivity.mediainfo.BuildConfig
+asia/ivity/mediainfo/ThumbnailUtils.java
+ asia.ivity.mediainfo.ThumbnailUtils
+asia/ivity/mediainfo/VideoDetail.java
+ asia.ivity.mediainfo.VideoDetail
+asia/ivity/mediainfo/MediaDetail.java
+ asia.ivity.mediainfo.MediaDetail
+asia/ivity/mediainfo/MediaInfoPlugin.java
+ asia.ivity.mediainfo.MediaInfoPlugin
+ asia.ivity.mediainfo.MediaInfoPlugin$1
+ asia.ivity.mediainfo.MediaInfoPlugin$2
